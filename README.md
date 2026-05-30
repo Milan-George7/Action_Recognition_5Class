@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎬 Action Recognition in Videos
 
 A deep learning system that classifies human actions in short video clips using a pretrained **3D CNN (R3D-18)** with transfer learning on a **5-class subset of UCF101**.
@@ -159,4 +160,7 @@ python src/train.py  # seed is set automatically
 
 ## 🎥 Demo
 
-[Watch the demo video](demo/https://youtu.be/7CvP-XhDTnk?si=kERmA91vj7pjCVrw)
+[demo/https://youtu.be/7CvP-XhDTnk?si=kERmA91vj7pjCVrw](demo/https://youtu.be/7CvP-XhDTnk?si=kERmA91vj7pjCVrw)
+=======
+# Action_Recognition_5Class
+>>>>>>> 5689285d3e47c252b79cbafaa71dde4e05e07e89
