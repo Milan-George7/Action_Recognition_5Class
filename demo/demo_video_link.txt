@@ -1,0 +1,9 @@
+YouTube Demo Video Link
+=======================
+
+[PASTE YOUR YOUTUBE LINK HERE]
+
+Instructions:
+1. Screen-record Colab running (3-5 mins): show training, metrics, sample prediction
+2. Upload to YouTube → Visibility → Unlisted
+3. Paste the URL above and push to GitHub

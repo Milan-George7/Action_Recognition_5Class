@@ -1,0 +1,31 @@
+# Dataset — too large for GitHub
+data/
+
+# Model weights — too large for GitHub
+model/*.pth
+model/*.pt
+
+# Kaggle credentials — NEVER commit this
+kaggle.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+runs/
