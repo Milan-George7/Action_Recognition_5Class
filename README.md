@@ -160,5 +160,5 @@ python src/train.py  # seed is set automatically
 
 ## 🎥 Demo
 
-[Watch Here](demo/demo_video_link.txt)
+Youtube video link : https://youtu.be/7CvP-XhDTnk?si=kERmA91vj7pjCVrw
 =======
