@@ -99,7 +99,7 @@ python src/predict.py --video path/to/your_video.avi
 
 ## 💻 Google Colab Usage
 
-1. Open `Action_Recognition_5Class.ipynb` in Google Colab
+1. Open this link : https://colab.research.google.com/drive/1vuxQbLng_XAvbW-Wy0U5E9imLbXkU8xt?usp=sharing
 2. Runtime → Change runtime type → **T4 GPU**
 3. Run all cells top to bottom
 
@@ -160,5 +160,5 @@ python src/train.py  # seed is set automatically
 
 ## 🎥 Demo
 
-[Watch Here](demo/https://youtu.be/7CvP-XhDTnk?si=kERmA91vj7pjCVrw)
+[Watch Here](demo/demo_video_link.txt)
 =======
