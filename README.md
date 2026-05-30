@@ -160,7 +160,5 @@ python src/train.py  # seed is set automatically
 
 ## 🎥 Demo
 
-[demo/https://youtu.be/7CvP-XhDTnk?si=kERmA91vj7pjCVrw](demo/https://youtu.be/7CvP-XhDTnk?si=kERmA91vj7pjCVrw)
+[Watch Here](demo/https://youtu.be/7CvP-XhDTnk?si=kERmA91vj7pjCVrw)
 =======
-# Action_Recognition_5Class
->>>>>>> 5689285d3e47c252b79cbafaa71dde4e05e07e89
